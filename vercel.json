@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://serene-research-392878.framer.app/$1"
+ }
+  ]
+}
